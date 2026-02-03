@@ -1,0 +1,3 @@
+FirstName | LastName | Day | Month | Year | Gender | Email                                 | Password |
+John      | Doe      | 12  | Feb   | 1995 | Male   | [john@test.com](mailto:john@test.com) | Test@123 |
+Sara      | Smith    | 5   | May   | 1998 | Female | [sara@test.com](mailto:sara@test.com) | Test@456 |
